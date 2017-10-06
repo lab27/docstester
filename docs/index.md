@@ -1,9 +1,10 @@
 ---
 layout: default
 title: humpday
+theme: minima
 ---
 
 # I'm cool, baby.
 ## Real cool.
 
-{{ site.theme }}
+Theme: {{ site.theme }}
